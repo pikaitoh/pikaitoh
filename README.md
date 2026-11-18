@@ -51,16 +51,4 @@ I am a proactive Computer Science student specializing in Cyber Security (CGPA: 
 
 ---
 
-### 📜 Certifications & Competitions
 
-- **Red Hat System Administration I (RH124 - RHA)** — *Red Hat* (Jun 2026)
-- **CCNA: Introduction to Networks** — *Cisco* (Dec 2025)
-- **Fortinet NSE 2 Certified in Cybersecurity** — *Fortinet* (Oct 2025)
-- **MUBA Blockchain Hackathon 2026** — *1st Runner Up (Thetanuts Finance)*
-- **ICTF 2026 & BINGOCTF 2025** — *Capture The Flag Competitor*
-
----
-
-### 📊 GitHub Stats
-
-![Kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pikaitoh&show_icons=true&theme=radical)
