@@ -17,17 +17,41 @@ I am a proactive Computer Science student specializing in Cyber Security (CGPA: 
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Featured Projects
 
-#### 🛡️ [FortiFi](https://github.com/edda1011/FortiFi) — *AI & On-Chain Financial Risk Protection*
-*Built for the MUBA Blockchain Hackathon 2026 (1st Runner Up — Thetanuts Finance)*
+### FortiFi — Financial Claim Verification
 
-**FortiFi** is a decentralized risk-verification and protection web application designed to safeguard users against fraudulent financial claims and Ethereum (ETH) market volatility.
-- **How it Works:**
-  1. **Multi-AI Claim Verification:** Analyzes and cross-checks financial claims and market sentiment using multiple AI models to detect misinformation or high-risk anomalies.
-  2. **Live Risk-to-Protection Engine:** Translates detected ETH risk scores into actionable, real-time DeFi protection choices (such as automated hedging/options strategies).
-  3. **Tamper-Evident On-Chain Proofs:** Records every AI risk analysis result and protection purchase proof immutably on-chain for full auditability and transparency.
-- **Tech Stack:** `Python` • `JavaScript` • `HTML5` • `CSS3` • `Blockchain / Web3`
+🏆 **1st Runner-Up — MUBA Blockchain Hackathon 2026 (Thetanuts Finance Track)**
+
+> An experiment combining AI-assisted verification, ETH risk analysis, and on-chain records.
+
+- Compares multiple AI models' assessments of financial claims and articles.
+- Connects ETH risk analysis with live protection options.
+- Supports tamper-evident analysis and purchase records on-chain.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edda1011/FortiFi)
+
+---
+
+### HackAcad.Web — Cybersecurity Learning Platform
+
+> A full-stack web application built for structured cybersecurity education and user management.
+
+- Implements role-based access control and user authentication workflows.
+- Manages structured course modules, database records, and administrative operations.
+- Built with clean MVC architecture and relational database integration.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pikaitoh/HackAcad.Web)
 
 ---
 
